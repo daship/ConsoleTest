@@ -14,5 +14,12 @@ namespace dashipWebApi.Controllers
 
             return View();
         }
+
+
+        public static string callFunction()
+        {
+            return "this is a call";
+
+        }
     }
 }
