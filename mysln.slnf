@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "ConsoleTest.sln",
+    "projects": [
+      "dashipWebApi\\dashipWebApi.csproj"
+    ]
+  }
+}
